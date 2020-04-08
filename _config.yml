@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: BML
+  name: bioinformatics & machine learning
   avatar: KakaoTalk_20200128_231746637.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
