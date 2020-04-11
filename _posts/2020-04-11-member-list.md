@@ -17,7 +17,7 @@ comments: false
 	</a>
 	</div>
 	<div>
-	<div class="name"><a href="https://kyurijo.github.io/" target="_blank"; font-size: 1.5em;>Kyuri Jo</a></div>
+	<div class="name"><a href="https://kyurijo.github.io/" target="_blank">Kyuri Jo</a></div>
             <p>Assistant professor at</p>
             <p><a href="http://computer.chungbuk.ac.kr" target="_blank">Chungbuk National University</a></p>
             <p>Dept. of Computer Engineering,<br>
