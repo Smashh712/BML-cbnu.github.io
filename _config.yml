@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: bioinformatics & machine learning
   avatar: KakaoTalk_20200128_231746637.png
-  job: "A jekyll theme"
+  job: "Bioinformatics & Machine Learning"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: #bml-cbnu
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
