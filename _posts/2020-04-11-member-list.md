@@ -18,7 +18,15 @@ comments: false
 	</div>
 	<div>
 	<div class="name"><a href="https://kyurijo.github.io/" target="_blank">Kyuri Jo</a></div>
-	<div>Professor at Chungbuk Univ.</div>
+            <p>Assistant professor at</p>
+            <p><a href="http://computer.chungbuk.ac.kr" target="_blank">Chungbuk National University</a></p>
+            <p>Dept. of Computer Engineering,<br>
+               College of Electrical and Computer Engineering,<br>
+               Chungbuk National University<br>
+               Chungdae-ro 1, Seowon-gu, Cheongju, Chungbuk, Korea (28644)<br>
+               Building E8-1, Room 407</p>
+            <p><i class="fa fa-phone"></i>&nbsp;+82-43-261-3685</p>
+            <p><i class="fa fa-envelope"></i>&nbsp;kyurijo[at]chungbuk.ac.kr</p>
 	</div>
 </div>
 
