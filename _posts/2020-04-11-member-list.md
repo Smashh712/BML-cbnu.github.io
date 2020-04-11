@@ -42,7 +42,7 @@ comments: false
 	</a>
 	</div>
 	<div>
-	<div><a href="" target="_blank">Name</a></div>
+	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
 	<div>Email</div>
 	</div>
 </div>
@@ -53,7 +53,7 @@ comments: false
 	</a>
 	</div>
 	<div>
-	<div><a href="" target="_blank">Name</a></div>
+	<div><a href="" target="_blank">Jeonghwan Yoon</a></div>
 	<div>Email</div>
 	</div>
 </div>
@@ -64,7 +64,7 @@ comments: false
 	</a>
 	</div>
 	<div>
-	<div><a href="" target="_blank">Name</a></div>
+	<div><a href="" target="_blank">Seonghun Kim</a></div>
 	<div>Email</div>
 	</div>
 </div>
@@ -75,8 +75,8 @@ comments: false
 	</a>
 	</div>
 	<div>
-	<div><a href="" target="_blank">Name</a></div>
-	<div>Email</div>
+	<div><a href="" target="_blank">Seokhun Bae</a></div>
+	<div>dinky24@chungbuk.ac.kr</div>
 	</div>
 </div>
 </div>
