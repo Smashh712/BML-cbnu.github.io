@@ -1,6 +1,6 @@
 ---
 layout: blank
-title:  "LAB paper list"
+title:  "LAB publications"
 date:   2020-04-11 09:00:03
 categories: [tutorial]
 comments: false
