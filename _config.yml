@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: bioinformatics & machine learning
+  name: "Chungbuk National Univ."
   avatar: KakaoTalk_20200128_231746637.png
-  job: "Bioinformatics & Machine Learning"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: ""
+  bio: "충북대학교 생물정보학 & 머신러닝 연구실"
   email:
   disqus-shortname:
   twitter: #username
