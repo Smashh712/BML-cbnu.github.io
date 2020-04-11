@@ -10,8 +10,6 @@ comments: false
 
 <hr>
 
-```
-
 ## International Journals
 
 ### 2020
@@ -48,11 +46,7 @@ comments: false
 
 * Jo K, Kwon HB, Kim S. Time-series RNA-seq analysis package (TRAP) and its application to the analysis of rice, Oryza sativa L. ssp. Japonica, upon drought stress. Methods, 2014 Jun 1;67(3):364-72.
 
-```
-
 <hr>
-
-```
 
 ## International Conference
 
@@ -64,11 +58,7 @@ comments: false
 
 * Kim HJ, Moon JH, Shin JS, Kim JS, Min BH, Kim JM, Kim YH, Lee WW, Kang BC, Kang SJ, Kim SJ, Jo K, Kim S, Park CG. A new bioinformatics analysis reveals intestinal infection as a possible cause of intrahepatic graft rejection in non-human primate porcine islet xenotransplantation. IPITA-IXA-CTS 2015, Nov 15-19, Melbourne, Australia
 
-```
-
 <hr>
-
-```
 
 ## Domestic Journal
 
@@ -76,11 +66,7 @@ comments: false
 
 * 조겨리, 김선. 네트워크를 이용한 시계열 유전체 분석 기법의 연구 동향. 정보과학회지, Vol.32, No. 10, 2014. 10., pp22-27.
 
-```
-
 <hr>
-
-```
 
 ## Domestic Conference
 
@@ -88,11 +74,7 @@ comments: false
 
 * Korean Society for Bioinformatics and Systems Biology BIOINFO 2015, Oct 23.
 
-```
-
 <hr>
-
-```
 
 ## Awards
 
@@ -109,5 +91,3 @@ comments: false
 ### 2015
 
 * Best Poster Award, BIOINFO 2015, 2015 Oct 23.
-
-```
