@@ -42,17 +42,6 @@ comments: false
 	</a>
 	</div>
 	<div>
-	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
-	<div>Email</div>
-	</div>
-</div>
-<div>
-	<div class="profile">
-	<a href="" target="_blank">
-	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">
-	</a>
-	</div>
-	<div>
 	<div><a href="" target="_blank">Jeonghwan Yoon</a></div>
 	<div>Email</div>
 	</div>
@@ -77,6 +66,17 @@ comments: false
 	<div>
 	<div><a href="" target="_blank">Seokhun Bae</a></div>
 	<div>dinky24@chungbuk.ac.kr</div>
+	</div>
+</div>
+	<div>
+	<div class="profile">
+	<a href="" target="_blank">
+	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">
+	</a>
+	</div>
+	<div>
+	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
+	<div><a href="smashh712@gmail.com" target="_blank">smashh712@gmail.com</a></div>
 	</div>
 </div>
 </div>
