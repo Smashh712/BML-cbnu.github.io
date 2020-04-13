@@ -76,7 +76,7 @@ comments: false
 	</div>
 	<div>
 	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
-	<div><a href="smashh712@gmail.com" target="_blank">smashh712@gmail.com</a></div>
+	<div>smashh712@gmail.com</div>
 	</div>
 </div>
 </div>
