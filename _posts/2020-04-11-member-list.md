@@ -68,8 +68,6 @@ comments: false
 	<div>Email</div>
 	</div>
 </div>
-
-
 	<div>
 	<div class="profile">
 	<a href="" target="_blank">
@@ -80,6 +78,5 @@ comments: false
 	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
 	<div>smashh712@gmail.com</div>
 	</div>
-</div>
 </div>
 
