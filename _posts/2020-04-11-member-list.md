@@ -29,7 +29,7 @@ maximum-scale=1.0, minimum-scale=1.0">
                Chungdae-ro 1, Seowon-gu, Cheongju, Chungbuk, Korea (28644)<br>
                Building E8-1, Room 407</p>
             <p><i class="fa fa-phone"></i>&nbsp;+82-43-261-3685</p>
-            <p><i class="fa fa-envelope"></i>&nbsp;kyurijo[at]chungbuk.ac.kr</p>
+            <p><i class="fa fa-envelope"></i>&nbsp;kyurijo@chungbuk.ac.kr</p>
 	</div>
 </div>
 
