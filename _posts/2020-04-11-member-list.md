@@ -58,9 +58,6 @@ maximum-scale=1.0, minimum-scale=1.0">
 	<div><a href="" target="_blank">Seokhun Bae</a></div>
 	<div>dinky24@chungbuk.ac.kr</div>
 	</div>
-</div>
-	
-<div>
 	<div class="profile">
 	<a href="" target="_blank">
 	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">
@@ -70,7 +67,6 @@ maximum-scale=1.0, minimum-scale=1.0">
 	<div><a href="" target="_blank">Jeonghwan Yoon</a></div>
 	<div>Email</div>
 	</div>
-</div>
 	<div>
 	<div class="profile">
 	<a href="" target="_blank">
@@ -81,5 +77,4 @@ maximum-scale=1.0, minimum-scale=1.0">
 	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
 	<div>smashh712@gmail.com</div>
 	</div>
-</div>
 
