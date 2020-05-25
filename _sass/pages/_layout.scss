@@ -47,7 +47,7 @@
     display: block;
   }
   @include media-query($medium-screen) {
-    text-align: right;
+    text-align: center;
     margin: 0 auto;
     padding: 0 0px 80px;
   }
@@ -74,19 +74,19 @@
 .nav-list {
   margin: 0;
   padding: 0;
-  list-style: none;
+  list-style: block;
   .nav-item {
-    display: block;
+    display: inline-block;
     zoom: 1;
     &:after {
-      content: '/';
+      content: '';
     }
     &:last-child:after {
       content: '';
     }
     & a {
       margin-top: 1em;
-      font-size: 120%;
+      font-size: 90%;
       color: $secondary;
       &:hover,
       &:focus {
