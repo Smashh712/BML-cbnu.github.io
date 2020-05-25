@@ -51,12 +51,13 @@ maximum-scale=1.0, minimum-scale=1.0">
 	<div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/blob/master/img/sh.jpg">
+	<img src="/img/sh.jpg">
 	</a>
 	</div>
 	<div>
 	<div><a href="" target="_blank">Seokhun Bae</a></div>
 	<div>dinky24@chungbuk.ac.kr</div>
+	<div>Bioinformatics</div>
 	</div>
 	<div class="profile">
 	<a href="" target="_blank">
@@ -70,11 +71,12 @@ maximum-scale=1.0, minimum-scale=1.0">
 	<div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/blob/master/img/hs.jpg">
+	<img src="/img/hs.jpg">
 	</a>
 	</div>
 	<div>
 	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
 	<div>smashh712@gmail.com</div>
+	<div>Machine Learning, Artificial intelligence</div>
 	</div>
 
