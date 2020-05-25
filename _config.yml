@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Bioinformatics & Machine Learning Lab 
+title: Bioinformatics & Machine Learning Lab. 
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: "Chungbuk National Univ."
-  avatar: KakaoTalk_20200128_231746637.png
+  avatar: BML.png
   job: ""
   bio: "충북대학교 생물정보학 & 머신러닝 연구실"
   email:
