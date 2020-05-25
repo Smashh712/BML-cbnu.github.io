@@ -77,6 +77,6 @@ maximum-scale=1.0, minimum-scale=1.0">
 	<div>
 	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
 	<div>smashh712@gmail.com</div>
-	<div>Machine Learning, Artificial intelligence</div>
+	<div>Machine Learning, Artificial Intelligence</div>
 	</div>
 
