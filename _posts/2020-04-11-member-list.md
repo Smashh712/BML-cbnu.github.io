@@ -51,7 +51,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 	<div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">
+	<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/blob/master/img/sh.jpg">
 	</a>
 	</div>
 	<div>
@@ -70,7 +70,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 	<div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">
+	<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/blob/master/img/hs.jpg">
 	</a>
 	</div>
 	<div>
