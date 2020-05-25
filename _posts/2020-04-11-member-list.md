@@ -44,7 +44,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 	</div>
 	<div>
 	<div><a href="" target="_blank">Seonghun Kim</a></div>
-	<div>Email</div>
+	<div><a href="mailto::">Email</div>
 	</div>
 </div>
 <div class="mem-container">
@@ -56,7 +56,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 	</div>
 	<div>
 	<div><a href="" target="_blank">Seokhun Bae</a></div>
-	<div>dinky24@chungbuk.ac.kr</div>
+	<div><a href="mailto::dinky24@chungbuk.ac.kr">dinky24@chungbuk.ac.kr</div>
 	<div>Bioinformatics</div>
 	</div>
 	<div class="profile">
@@ -76,7 +76,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 	</div>
 	<div>
 	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
-	<div>smashh712@gmail.com</div>
+	<div><a href="mailto::smashh712@gmail.com">smashh712@gmail.com</div>
 	<div>Machine Learning, Artificial Intelligence</div>
 	</div>
 
