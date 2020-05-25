@@ -39,7 +39,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 <div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">
+	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" width="361" height="361">
 	</a>
 	</div>
 	<div>
@@ -61,7 +61,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 	</div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">
+	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" width="361" height="361">
 	</a>
 	</div>
 	<div>
