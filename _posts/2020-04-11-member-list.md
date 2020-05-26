@@ -12,7 +12,7 @@ comments: false
 <div class="prof-container">
 	<div class="profile">
 	<a href="https://kyurijo.github.io/" target="_blank">
-	<img src="https://kyurijo.github.io/images/KyuriJo_round.png" width=30% height=30%>
+	<img src="https://kyurijo.github.io/images/KyuriJo_round.png" width="30%" height="30%">
 	</a>
 	</div>
 	<div>
