@@ -39,12 +39,13 @@ maximum-scale=1.0, minimum-scale=1.0">
 <div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" width="361" height="361">
+	<img src="/img/sh2.jpg">
 	</a>
 	</div>
 	<div>
 	<div><a href="" target="_blank">Seonghun Kim</a></div>
 	<div>Email</div>
+	<div>Image processing</div>
 	</div>
 </div>
 <div class="mem-container">
@@ -61,12 +62,13 @@ maximum-scale=1.0, minimum-scale=1.0">
 	</div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" width="361" height="361">
+	<img src="/img/jh.jpg" >
 	</a>
 	</div>
 	<div>
 	<div><a href="" target="_blank">Jeonghwan Yoon</a></div>
-	<div>Email</div>
+	<div>ghks0630@naver.com</div>
+	<div>Machine Learning</div>
 	</div>
 	<div>
 	<div class="profile">
