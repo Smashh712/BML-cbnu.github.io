@@ -36,24 +36,28 @@ maximum-scale=1.0, minimum-scale=1.0">
 ## Members
 
 ***
-
-<div><a href="" target="_blank">
-<img src="/img/sh1.jpg">
-</a>
+<div class="mem-container">
+ <div>
+<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/sh1.jpg">
+<h2 style="text-align: center;"><strong>Seonghun Kim</strong></h2>
+<p style="text-align: center;">E-mail :&nbsp;<a href="mailto:tjdgns4560@naver.com">tjdgns4560@naver.com</a></p>
+<p style="text-align: center;">Image processing</p>
 </div>
-
-<div><a href="" target="_blank">
-<img src="/img/jh.jpg">
-</a>
+ <div>
+<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/sh1.jpg">
+<h2 style="text-align: center;"><strong>Seonghun Kim</strong></h2>
+<p style="text-align: center;">E-mail :&nbsp;<a href="mailto:tjdgns4560@naver.com">tjdgns4560@naver.com</a></p>
+<p style="text-align: center;">Image processing</p>
 </div>
-
-<div><a href="" target="_blank">
-<img src="/img/sh.jpg">
-</a>
+ <div>
+<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/sh1.jpg">
+<h2 style="text-align: center;"><strong>Seonghun Kim</strong></h2>
+<p style="text-align: center;">E-mail :&nbsp;<a href="mailto:tjdgns4560@naver.com">tjdgns4560@naver.com</a></p>
+<p style="text-align: center;">Image processing</p>
 </div>
-
-<div><a href="" target="_blank">
-<img src="/img/hs.jpg">
-</a>
+ <div>
+<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/sh1.jpg">
+<h2 style="text-align: center;"><strong>Seonghun Kim</strong></h2>
+<p style="text-align: center;">E-mail :&nbsp;<a href="mailto:tjdgns4560@naver.com">tjdgns4560@naver.com</a></p>
+<p style="text-align: center;">Image processing</p>
 </div>
-
