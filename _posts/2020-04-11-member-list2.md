@@ -56,7 +56,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 <p style="text-align: center;">Bioinformatics</p>
 </div>
  <div>
-<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/hs1.jpg">
+<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/hs.jpg">
 <h3 style="text-align: center;"><strong>Hyuksoon Jang</strong></h3>
 <p style="text-align: center;">E-mail :&nbsp;<a href="mailto:smashh712@gmail.com">smashh712@gmail.com</a></p>
 <p style="text-align: center;">Machine Learning, Artificial Intelligence</p>
