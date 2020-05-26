@@ -44,7 +44,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 	</div>
 	<div>
 	<div><a href="" target="_blank">Seonghun Kim</a></div>
-	<div>Email</div>
+	<div>tjdgns4560@naver.com</div>
 	<div>Image processing</div>
 	</div>
 </div>
