@@ -37,18 +37,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 
 ***
 
-<style>
-	div{
-	width:20%;
-	height:20%;
-	display: inline-block;
-	margin:15px;
-	border-width:5px;
-	}
-	.box1{boarder-style:solid;}
-</stlyle>
-
-<div class="box1">
+<div class="mem-container">
 <a href="" target="_blank">
 <img src="/img/sh1.jpg">
 </a>
