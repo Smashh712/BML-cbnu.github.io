@@ -39,7 +39,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 <div>
 	<div class="profile">
 	<a href="" target="_blank">
-	<img src="/img/sh2.jpg">
+	<img src="/img/sh1.jpg">
 	</a>
 	</div>
 	<div>
