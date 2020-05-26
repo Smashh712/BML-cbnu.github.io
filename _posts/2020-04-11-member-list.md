@@ -39,25 +39,25 @@ maximum-scale=1.0, minimum-scale=1.0">
 <div class="mem-container">
  <div>
 <img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/sh1.jpg">
- <p style="font-size: 2.5vw; text-align: center;"><strong>Seonghun Kim</strong></p>
+ <p style="font-size: 3.0vw; text-align: center;"><strong>Seonghun Kim</strong></p>
 <p style="text-align: center;">E-mail :&nbsp;<a href="mailto:tjdgns4560@naver.com">tjdgns4560@naver.com</a></p>
 <p style="text-align: center;">Image processing</p>
 </div>
 <div>
 <img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/jh.jpg">
- <p style="font-size: 2.5vw; text-align: center;"><strong>Jeonghwan Yoon</strong></p>
+ <p style="font-size: 3.0vw; text-align: center;"><strong>Jeonghwan Yoon</strong></p>
 <p style="font-size: 2.0vw; text-align: center;">E-mail :&nbsp;<a href="mailto:ghks0630@naver.com">ghks0630@naver.com</a></p>
 <p style="font-size: 2.0vw; text-align: center;">Machine Learning</p>
 </div>
  <div>
 <img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/sh.jpg">
-	 <p style="font-size: 2.5vw; text-align: center;"><strong>Seokhun Bae</strong></p>
+	 <p style="font-size: 3.0vw; text-align: center;"><strong>Seokhun Bae</strong></p>
 <p style="font-size: 2.0vw; text-align: center;">E-mail :&nbsp;<a href="mailto:dinky24@chungbuk.ac.kr">dinky24@chungbuk.ac.krm</a></p>
 <p style="font-size: 2.0vw; text-align: center;">Bioinformatics</p>
 </div>
  <div>
 <img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/hs.jpg">
- <p style="font-size: 2.5vw; text-align: center;"><strong>Hyuksoon Jang</strong></p>
+ <p style="font-size: 3.0vw; text-align: center;"><strong>Hyuksoon Jang</strong></p>
 <p style="font-size: 2.0vw; text-align: center;">E-mail :&nbsp;<a href="mailto:smashh712@gmail.com">smashh712@gmail.com</a></p>
 <p style="font-size: 2.0vw; text-align: center;">Machine Learning, Artificial Intelligence</p>
 </div>
