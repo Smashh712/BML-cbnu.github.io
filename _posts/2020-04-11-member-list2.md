@@ -36,49 +36,21 @@ maximum-scale=1.0, minimum-scale=1.0">
 ## Members
 
 ***
-<div>
-	<div class="profile">
-	<a href="" target="_blank">
-	<img src="/img/sh1.jpg">
-	</a>
-	</div>
-	<div>
-	<div><a href="" target="_blank">Seonghun Kim</a></div>
-	<div>tjdgns4560@naver.com</div>
-	<div>Image processing</div>
-	</div>
+
+<style>
+	div{
+	width:20%;
+	height:20%;
+	display: inline-block;
+	margin:15px;
+	border-width:5px;
+	}
+	.box1{boarder-style:solid;}
+</stlyle>
+
+<div class="box1">
+<a href="" target="_blank">
+<img src="/img/sh1.jpg">
+</a>
 </div>
-<div class="mem-container">
-	<div>
-	<div class="profile">
-	<a href="" target="_blank">
-	<img src="/img/sh.jpg">
-	</a>
-	</div>
-	<div>
-	<div><a href="" target="_blank">Seokhun Bae</a></div>
-	<div>dinky24@chungbuk.ac.kr</div>
-	<div>Bioinformatics</div>
-	</div>
-	<div class="profile">
-	<a href="" target="_blank">
-	<img src="/img/jh.jpg" >
-	</a>
-	</div>
-	<div>
-	<div><a href="" target="_blank">Jeonghwan Yoon</a></div>
-	<div>ghks0630@naver.com</div>
-	<div>Machine Learning</div>
-	</div>
-	<div>
-	<div class="profile">
-	<a href="" target="_blank">
-	<img src="/img/hs.jpg">
-	</a>
-	</div>
-	<div>
-	<div><a href="" target="_blank">Hyuksoon Jang</a></div>
-	<div>smashh712@gmail.com</div>
-	<div>Machine Learning, Artificial Intelligence</div>
-	</div>
 
