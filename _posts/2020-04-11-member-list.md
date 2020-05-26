@@ -51,8 +51,8 @@ maximum-scale=1.0, minimum-scale=1.0">
 </div>
  <div>
 <img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/sh.jpg">
-	 <p style="font-size: 2.0vw; text-align: center;"><strong>Seokhun Bae</strong></p>
-<p style="font-size: 1.5vw; text-align: center;">E-mail :&nbsp;<a href="mailto:dinky24@chungbuk.ac.kr">dinky24@chungbuk.ac.krm</a></p>
+	 <p style="font-size: 1.5vw; text-align: center;"><strong>Seokhun Bae</strong></p>
+<p style="font-size: 1.0vw; text-align: center;">E-mail :&nbsp;<a href="mailto:dinky24@chungbuk.ac.kr">dinky24@chungbuk.ac.krm</a></p>
 <p style="font-size: 1.0vw; text-align: center;">Bioinformatics</p>
 </div>
  <div>
