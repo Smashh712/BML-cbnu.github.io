@@ -37,23 +37,22 @@ maximum-scale=1.0, minimum-scale=1.0">
 
 ***
 
-<div class="mem-container">
-<a href="" target="_blank">
+<div><a href="" target="_blank">
 <img src="/img/sh1.jpg">
 </a>
 </div>
-<div class="mem-container">
-<a href="" target="_blank">
+
+<div><a href="" target="_blank">
 <img src="/img/jh.jpg">
 </a>
 </div>
-<div class="mem-container">
-<a href="" target="_blank">
+
+<div><a href="" target="_blank">
 <img src="/img/sh.jpg">
 </a>
 </div>
-<div class="mem-container">
-<a href="" target="_blank">
+
+<div><a href="" target="_blank">
 <img src="/img/hs.jpg">
 </a>
 </div>
