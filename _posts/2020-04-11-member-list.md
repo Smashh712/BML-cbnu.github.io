@@ -45,7 +45,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 </div>
 <div>
 <img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/jh.jpg">
- <p style="font-size: 2.5vw; text-align: center;">Jeonghwan Yoon</strong></p>
+ <p style="font-size: 2.5vw; text-align: center;"><strong>Jeonghwan Yoon</strong></p>
 <p style="font-size: 2.0vw; text-align: center;">E-mail :&nbsp;<a href="mailto:ghks0630@naver.com">ghks0630@naver.com</a></p>
 <p style="font-size: 2.0vw; text-align: center;">Machine Learning</p>
 </div>
