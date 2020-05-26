@@ -20,7 +20,7 @@ maximum-scale=1.0, minimum-scale=1.0">
 	</a>
 	</div>
 	<div>
-	<div class="name"><a href="https://kyurijo.github.io/" target="_blank">Kyuri Jo</a></div>
+	<p style="font-size: 2.0vw; text-align: center;"><a href="https://kyurijo.github.io/" target="_blank">Kyuri Jo</a></p>
             <p>Assistant professor at</p>
             <p><a href="http://computer.chungbuk.ac.kr" target="_blank">Chungbuk National University</a></p>
             <p>Dept. of Computer Engineering,<br>
