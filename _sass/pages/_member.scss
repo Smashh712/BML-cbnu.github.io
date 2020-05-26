@@ -4,14 +4,12 @@
 }
 
 .profile {
-	img {
-		margin: 10px;
-		max-width: 16em;
-	}
+
 }
 
 .mem-container {
   display: inline-grid; 
   grid-template-columns: 1fr 1fr 1fr 1fr;
   column-gap	: 30px;
+
 }
