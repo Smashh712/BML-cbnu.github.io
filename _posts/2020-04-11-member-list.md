@@ -57,3 +57,9 @@ comments: false
 <p style="font-size: 1.0vw; text-align: center;"><i class="fa fa-envelope"></i><a href="mailto:smashh712@gmail.com"> smashh712@gmail.com</a></p>
 <p style="font-size: 1.0vw; text-align: center;">Machine Learning, Artificial Intelligence</p>
 </div>
+ <div>
+<img src="https://github.com/BML-cbnu/BML-cbnu.github.io/raw/master/img/jw.jpg">
+ <p style="font-size: 1.5vw; text-align: center;"><strong>Yoo jiwon</strong></p>
+<p style="font-size: 1.0vw; text-align: center;"><i class="fa fa-envelope"></i><a href="mailto:jeewon9901@gmail.com"> jeewon9901@gmail.com</a></p>
+<p style="font-size: 1.0vw; text-align: center;">Machine Learning</p>
+</div>
